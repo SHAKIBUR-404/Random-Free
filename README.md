@@ -40,3 +40,5 @@ rm -rf Random-Free-
 git clone https://github.com/Shakibur-Cyber-King/Random-Free-
 
 cd Random-Free-
+
+python SHAKIBUR.py
